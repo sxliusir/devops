@@ -6,11 +6,11 @@
 ## 二、什么是DevOps
    DevOps是一组结合了软件开发( Dev ) 和IT 运营( Ops ) 的实践，是一项 IT 优秀实践方法，可以将开发人员与运营部门结合到一起，从而快速开发和交付新的软件功能与服务。它旨在缩短系统开发生命周期并提供具有高软件质量的持续交付。
 ## 三、DevOps优势
-- 提高客户满意度、价值和投资回报
-- 削减开发和运营成本
-- 提高了质量，并且可以投入更多时间来实现产品和服务创新。2017 年 DevOps 状态报告表明，表现优异的组织花在计划外工作和返工上的时间比表现不彰的组织少了 21%。因此，用于新工作（比如开发新功能或代码）上的时间多了 44%。
-- 缩短了开发周期（借助自动化），从而实现更快的反馈周期以及更快的产品上市速度
-- 增加了沟通和协作，从而创造以工作表现为导向的文化<br/>
+- 提高客户满意度、价值和投资回报；
+- 削减开发和运营成本；
+- 提高了质量，并且可以投入更多时间来实现产品和服务创新。2017 年 DevOps 状态报告表明，表现优异的组织花在计划外工作和返工上的时间比表现不佳的组织少了 21%。因此，用于新工作（比如开发新功能或代码）上的时间多了 44%；
+- 缩短了开发周期（借助自动化），从而实现更快的反馈周期以及更快的产品上市速度；
+- 增加了沟通和协作，从而创造以工作表现为导向的文化；<br/>
 ## 四、平台建设
 ### 1、DevOps流程
 ![avatar](image/DevOps流程.png)
@@ -29,13 +29,13 @@
 #### 3.2、git开发流程
 ![avatar](image/git流程.png)
 ### 4、Jenkins 用户和权限管理策略
-<font color=#FF0000 >用户和权限管理策略配置简单</font><br/>
+<font color=#FF0000 >用户和权限管理策略配置简单</font><br/><br/>
 ![avatar](image/Jenkins.jpg)
 ### 5、SoarQube
 #### 5.1、SoarQube介绍
 sonar是一款静态代码质量分析工具，支持Java、Python、PHP、JavaScript、CSS等25种以上的语言，而且能够集成在IDE、Jenkins、Git等服务中，方便随时查看代码质量分析报告。<br/>
 ![avatar](image/sonar.png)
-<br/>sonar通过配置的代码分析规则，从可靠性、安全性、可维护性、覆盖率、重复率等方面分析项目，风险等级从A~E划分为5个等级；同时，sonar可以集成pmd、findbugs、checkstyle等插件来扩展使用其他规则来检验代码质量。<br/>
+<br/>sonar通过配置的代码分析规则，从可靠性、安全性、可维护性、覆盖率、重复率等方面分析项目，风险等级从A~E划分为5个等级；同时，sonar可以集成pmd、findbugs、checkstyle等插件来扩展使用其他规则来检验代码质量。<br/><br/>
 ![avatar](image/SonarResult.png)
 #### 5.2、SoarQube工作流
 ![avatar](image/Sonar工作流转图.png)
@@ -64,3 +64,7 @@ sonar是一款静态代码质量分析工具，支持Java、Python、PHP、JavaS
 [GitLab+Jenkins持续集成+自动化部署](./GitLab+Jenkins持续集成+自动化部署.md)
 ## 六、参考资料
 [DevOps实践指南.pdf](file/DevOps实践指南.pdf)
+## 七、效果演示
+<video id="video" controls="" preload="none" poster="image/devops.png">
+      <source id="mp4" src="file/持续集成-简化版.mp4" type="video/mp4">
+</video>
