@@ -11,7 +11,7 @@
 [root@gitlab ~]# wget https://mirrors.tuna.tsinghua.edu.cn/gitlab-ce/yum/el7/gitlab-ce-10.2.2-ce.0.el7.x86_64.rpm        #下载软件包
 [root@gitlab ~]# rpm -ivh gitlab-ce-10.2.2-ce.0.el7.x86_64.rpm    #安装gitlab
 ```
-![avatar](image/gitlab_success.png)
+![avatar](image/gitlab_success.png)<br/>
 （2）根据安装完成提示界面进行访问URL更改及重新加载配置文件，更改次选项为自己的域名或者IP     external_url 'http://gitlab.example.com'
 ```console
 [root@gitlab ~]# vim /etc/gitlab/gitlab.rb      #编辑配置文件  
