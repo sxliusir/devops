@@ -35,7 +35,7 @@
 #### 5.1、SoarQube介绍
 sonar是一款静态代码质量分析工具，支持Java、Python、PHP、JavaScript、CSS等25种以上的语言，而且能够集成在IDE、Jenkins、Git等服务中，方便随时查看代码质量分析报告。<br/>
 ![avatar](image/sonar.png)
-sonar通过配置的代码分析规则，从可靠性、安全性、可维护性、覆盖率、重复率等方面分析项目，风险等级从A~E划分为5个等级；同时，sonar可以集成pmd、findbugs、checkstyle等插件来扩展使用其他规则来检验代码质量。<br/>
+<br/>sonar通过配置的代码分析规则，从可靠性、安全性、可维护性、覆盖率、重复率等方面分析项目，风险等级从A~E划分为5个等级；同时，sonar可以集成pmd、findbugs、checkstyle等插件来扩展使用其他规则来检验代码质量。<br/>
 ![avatar](image/SonarResult.png)
 #### 5.2、SoarQube工作流
 ![avatar](image/Sonar工作流转图.png)
