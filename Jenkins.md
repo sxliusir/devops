@@ -114,5 +114,5 @@ Restarting jenkins (via systemctl):                        [  确定  ]
 [root@jenkins download]#
 ```
 ### （6）再次查看web界面
-![avatar](image/jenkins插件5.png)
+![avatar](image/jenkins插件5.png)<br/>
 至此Jenkins就部署完成了。
