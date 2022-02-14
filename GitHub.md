@@ -1,10 +1,10 @@
 # GitHub安装
 ## 安装环境
-（1）CentOS 6或者7    （此处使用7）
-（2）2G内存（实验）生产（至少4G），不然会很卡
-（3）安装包：gitlab-ce-10.2.2-ce
-（4）禁用防火墙，关闭selinux
-## 安装步骤
+（1）CentOS 6或者7    （此处使用7）<br/>
+（2）2G内存（实验）生产（至少4G），不然会很卡<br/>
+（3）安装包：gitlab-ce-10.2.2-ce<br/>
+（4）禁用防火墙，关闭selinux<br/>
+## 安装步骤<br/>
 （1）安装软件
 ```console
 [root@gitlab ~]# yum install -y curl policycoreutils-python openssh-server        #安装依赖
