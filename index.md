@@ -29,7 +29,7 @@
 #### 3.2、git开发流程
 ![avatar](image/git流程.png)
 ### 4、Jenkins 用户和权限管理策略
-<font color=#FF0000 >用户和权限管理策略配置简单</font><br/><br/>
+用户和权限管理策略配置简单，不做过多介绍！<br/><br/>
 ![avatar](image/Jenkins.jpg)
 ### 5、SoarQube
 #### 5.1、SoarQube介绍
