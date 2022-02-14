@@ -33,7 +33,7 @@
 ![avatar](image/Jenkins.jpg)
 ### 5、SoarQube
 #### 5.1、SoarQube介绍
-sonar是一款静态代码质量分析工具，支持Java、Python、PHP、JavaScript、CSS等25种以上的语言，而且能够集成在IDE、Jenkins、Git等服务中，方便随时查看代码质量分析报告。
+sonar是一款静态代码质量分析工具，支持Java、Python、PHP、JavaScript、CSS等25种以上的语言，而且能够集成在IDE、Jenkins、Git等服务中，方便随时查看代码质量分析报告。<br/>
 ![avatar](image/sonar.png)
 sonar通过配置的代码分析规则，从可靠性、安全性、可维护性、覆盖率、重复率等方面分析项目，风险等级从A~E划分为5个等级；同时，sonar可以集成pmd、findbugs、checkstyle等插件来扩展使用其他规则来检验代码质量。<br/>
 ![avatar](image/SonarResult.png)
@@ -52,7 +52,7 @@ sonar通过配置的代码分析规则，从可靠性、安全性、可维护性
 ### 7、安全测试
 测试过程中、上线前、上线后对代码进行安全扫描，及时修复漏洞。漏洞修复后回测，确保不影响现有业务。漏洞扫描工具：awvs、Burp Suite、T-Sec 漏洞扫描服务等等。
 ### 8、部署上线
-
+![avatar](image/产品开发上线流程图.png)
 ## 五、Devops 环境搭建
 ### 1、GitHub
 ### 2、Nginx
