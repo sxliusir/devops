@@ -3,9 +3,9 @@
 - 传统的研发模式和运维管理体系不适应新的商业形态下的新变化、新要求（快速响应、快速实现、高质量交付）。
 - 随着劳动力成本的持续攀升，以往依靠大量人员投入的人员密集型开发和维护体系已经不堪重负；同时多年积累下的技术债务已经难以适应和满足企业数字化转型升级的要求。
 - 新技术和新的研发工程实践的成熟度提供了基础。<br/>
-## 二、什么是DevOps？
+## 二、什么是DevOps
    DevOps是一组结合了软件开发( Dev ) 和IT 运营( Ops ) 的实践，是一项 IT 优秀实践方法，可以将开发人员与运营部门结合到一起，从而快速开发和交付新的软件功能与服务。它旨在缩短系统开发生命周期并提供具有高软件质量的持续交付。
-## 三、DevOps优势？
+## 三、DevOps优势
 - 提高客户满意度、价值和投资回报
 - 削减开发和运营成本
 - 提高了质量，并且可以投入更多时间来实现产品和服务创新。2017 年 DevOps 状态报告表明，表现优异的组织花在计划外工作和返工上的时间比表现不彰的组织少了 21%。因此，用于新工作（比如开发新功能或代码）上的时间多了 44%。
@@ -55,12 +55,12 @@ sonar是一款静态代码质量分析工具，支持Java、Python、PHP、JavaS
 ![avatar](image/产品开发上线流程图.png)
 ## 五、Devops 环境搭建
 ### 1、GitHub
-[GitHub安装](file/GitHub.md)
+[GitHub安装](./GitHub.md)
 ### 2、Nginx
-[Nginx安装](file/Nginx.md)
+[Nginx安装](./Nginx.md)
 ### 3、Jenkins
-[Jenkins安装](file/Jenkins.md)
+[Jenkins安装](./Jenkins.md)
 ### 4、GitLab+Jenkins持续集成+自动化部署
-[GitLab+Jenkins持续集成+自动化部署](file/GitLab+Jenkins持续集成+自动化部署.md)
+[GitLab+Jenkins持续集成+自动化部署](./GitLab+Jenkins持续集成+自动化部署.md)
 ## 六、参考资料
 [DevOps实践指南.pdf](file/DevOps实践指南.pdf)
