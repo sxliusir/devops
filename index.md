@@ -55,7 +55,12 @@ sonar通过配置的代码分析规则，从可靠性、安全性、可维护性
 ![avatar](image/产品开发上线流程图.png)
 ## 五、Devops 环境搭建
 ### 1、GitHub
+[GitHub安装](file/GitHub.md)
 ### 2、Nginx
+[Nginx安装](file/Nginx.md)
 ### 3、Jenkins
+[Jenkins安装](file/Jenkins.md)
+### 4、GitLab+Jenkins持续集成+自动化部署
+[GitLab+Jenkins持续集成+自动化部署](file/GitLab+Jenkins持续集成+自动化部署.md)
 ## 六、参考资料
 [DevOps实践指南.pdf](file/DevOps实践指南.pdf)
