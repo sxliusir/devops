@@ -1,19 +1,19 @@
 # Jenkins安装
 ## 安装环境
-（1）CentOS 7
-（2）2G内存，50G磁盘
-（3）安装包：jdk-8u181-linux-x64.rpm jenkins-2.99-1.1.noarch.rpm 
-（4）禁用防火墙，关闭selinux
+（1）CentOS 7<br/>
+（2）2G内存，50G磁盘<br/>
+（3）安装包：jdk-8u181-linux-x64.rpm jenkins-2.99-1.1.noarch.rpm <br/>
+（4）禁用防火墙，关闭selinux<br/>
 ## 此案例用到的软件
-（1）JDK软件包
-jdk-8u181-linux-x64.rpm
-链接：https://pan.baidu.com/s/1QeNSXcYpelRVrjE7A7yzBw     提取码：59xg
-（2）Jenkins软件包
-jenkins-2.99-1.1.noarch.rpm
-链接：https://pan.baidu.com/s/180EyslbPG5z6OWBku1wQzA     提取码：ywi3
-（3）Jenkins插件包
-jenkins-plugins.tar.gz
-链接：https://pan.baidu.com/s/1wrZfwJXhNwkO4rdxoHzCMQ     提取码：394m
+（1）JDK软件包<br/>
+jdk-8u181-linux-x64.rpm<br/>
+链接：https://pan.baidu.com/s/1QeNSXcYpelRVrjE7A7yzBw     提取码：59xg<br/>
+（2）Jenkins软件包<br/>
+jenkins-2.99-1.1.noarch.rpm<br/>
+链接：https://pan.baidu.com/s/180EyslbPG5z6OWBku1wQzA     提取码：ywi3<br/>
+（3）Jenkins插件包<br/>
+jenkins-plugins.tar.gz<br/>
+链接：https://pan.baidu.com/s/1wrZfwJXhNwkO4rdxoHzCMQ     提取码：394m<br/>
 ## 安装步骤
 ### （1）安装软件jdk和jenkins
 ```console
@@ -73,9 +73,9 @@ drwxr-xr-x 3 jenkins jenkins   19 3月  26 10:04 users
 ![avatar](image/jenkins_update_pwd1.png)
 ### （3）修改密码
 ![avatar](image/jenkins_update_pwd2.png)
-###（4）点击注销
+### （4）点击注销
 ![avatar](image/jenkins_update_pwd3.png)
-###（5）使用新密码登录Jenkins
+### （5）使用新密码登录Jenkins
 ![avatar](image/jenkins_update_pwd4.png)
 ## 部署Jenkins插件
 ### （1）点击系统管理
