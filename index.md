@@ -64,7 +64,3 @@ sonar是一款静态代码质量分析工具，支持Java、Python、PHP、JavaS
 [GitLab+Jenkins持续集成+自动化部署](./GitLab+Jenkins持续集成+自动化部署.md)
 ## 六、参考资料
 [DevOps实践指南.pdf](file/DevOps实践指南.pdf)
-## 七、效果演示
-<video id="video" controls="" preload="none" poster="image/devops.png">
-      <source id="mp4" src="file/持续集成-简化版.mp4" type="video/mp4">
-</video>
